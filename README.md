@@ -41,7 +41,6 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
 [Brackeys] https://www.youtube.com/@Brackeys
 [Nintendo] Metroid
 [Team_Cherry] Hollow Knight
