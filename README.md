@@ -18,10 +18,10 @@ Download files from my GitHub. https://github.com/EBrenckle/Brenckle_Eli_Final_P
 
 ### Executing program
 
-Move Unity project folder to your specified Unity project containing folder
-Open Unity aplication
-Run my Unity project
-Click play
+*Move Unity project folder to your specified Unity project containing folder
+*Open Unity aplication
+*Run my Unity project
+*Click play
 
 ## Help
 
@@ -29,12 +29,12 @@ None so far
 
 ## Authors
 
-Eli Brenckle
-@ebrenckle
+*Eli Brenckle
+*@ebrenckle
 
 ## Version History
 
-No releases yet
+*No releases yet
 
 ## License
 
@@ -42,6 +42,6 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Acknowledgments
 
-[Brackeys] https://www.youtube.com/@Brackeys
-[Nintendo] Metroid
-[Team_Cherry] Hollow Knight
+*[Brackeys] https://www.youtube.com/@Brackeys
+*[Nintendo] Metroid
+*[Team_Cherry] Hollow Knight
