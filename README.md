@@ -30,7 +30,6 @@ No clue
 ## Authors
 
 Name: Eli Brenckle
-Email: Eli.Brenckle25@bcp.org
 
 ## Version History
 
