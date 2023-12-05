@@ -18,7 +18,10 @@ Download files from my GitHub.
 
 ### Executing program
 
-Will figure out later
+Move Unity project folder to your specified Unity project containing folder
+Open Unity aplication
+Run my Unity project
+Click play
 
 ## Help
 
