@@ -4,7 +4,7 @@ Simple overview of use/purpose.
 
 ## Description
 
-The project will be using the Unity Game Engine to create a small metroidvania that incorperates a small pool of entities, some powerups, and player enemy interactions
+The project will be using the Unity Game Engine, C#, and Photoshop to create a small metroidvania that incorperates a small pool of entities, some powerups, and player-enemy interactions. 
 
 ## Getting Started
 
@@ -14,7 +14,7 @@ Requires the installation of Unity and C# to run the code
 
 ### Installing
 
-Download files from my GitHub.
+Download files from my GitHub. https://github.com/EBrenckle/Brenckle_Eli_Final_Project
 
 ### Executing program
 
@@ -25,11 +25,12 @@ Click play
 
 ## Help
 
-No clue
+None so far
 
 ## Authors
 
-Name: Eli Brenckle
+Eli Brenckle
+@ebrenckle
 
 ## Version History
 
